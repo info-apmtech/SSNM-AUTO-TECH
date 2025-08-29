@@ -1,0 +1,7 @@
+D:\working\SSN WebSite\SSNWebSite\SSNWebSite\obj\Release\net9.0\PubTmp\Out\SSNWebSite.exe
+D:\working\SSN WebSite\SSNWebSite\SSNWebSite\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\working\SSN WebSite\SSNWebSite\SSNWebSite\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\working\SSN WebSite\SSNWebSite\SSNWebSite\obj\Release\net9.0\PubTmp\Out\SSNWebSite.dll
+D:\working\SSN WebSite\SSNWebSite\SSNWebSite\obj\Release\net9.0\PubTmp\Out\SSNWebSite.deps.json
+D:\working\SSN WebSite\SSNWebSite\SSNWebSite\obj\Release\net9.0\PubTmp\Out\SSNWebSite.runtimeconfig.json
+D:\working\SSN WebSite\SSNWebSite\SSNWebSite\obj\Release\net9.0\PubTmp\Out\SSNWebSite.pdb
